@@ -1,0 +1,8 @@
+Added Component: Designator=U5(SOT23-6_L)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=RESET Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetC24_2 Pin=U5-3
+Added Pin To Net: NetName=WDI Pin=U5-4
+Added Pin To Net: NetName=+5V Pin=U5-5
+Added Member To Class: ClassName=CAN-to-CAN Member=Component U5 MCP1320-46LT
