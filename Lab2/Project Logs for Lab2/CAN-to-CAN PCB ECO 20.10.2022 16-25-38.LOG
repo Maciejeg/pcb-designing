@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap Pol1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap Pol1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=L1 Old DesignItemId=Inductor Iron New DesignItemId=Inductor Isolated
+Change Component Footprint: Designator=L1 Old Footprint=AXIAL-0.9 New Footprint=425
+Change Component Footprint: Designator=C4 Old Footprint=RB7.6-15 New Footprint=C1206
+Change Component Footprint: Designator=C5 Old Footprint=RB7.6-15 New Footprint=C1206
+Change Component Comment : Designator=C4 Old Comment=10u/16 New Comment=Cap Semi
+Change Component Comment : Designator=C5 Old Comment=100u/6V3 New Comment=Cap Semi
+Change Component Comment : Designator=L1 Old Comment=DL22-330 New Comment=Inductor Isolated
+Change Component Description : Designator=L1 Old Description=Magnetic-Core Inductor New Description=Isolated Inductor
+Change Component Description : Designator=C4 Old Description=Polarized Capacitor (Radial) New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C5 Old Description=Polarized Capacitor (Radial) New Description=Capacitor (Semiconductor SIM Model)
