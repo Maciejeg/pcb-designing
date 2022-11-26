@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=* NewDesignator=3213ds
+Added Pin To Net: NetName=Net3213ds_AC10 Pin=U1-2
+Added Net: Name=Net3213ds_AC10
+Added Pin To Net: NetName=Net3213ds_AC11 Pin=U1-3
+Added Net: Name=Net3213ds_AC11
+Added Room: Name=Sheet1

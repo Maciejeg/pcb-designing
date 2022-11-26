@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Sheet1 Member=3213ds
+Added Component: Designator=Antena(Cewka)
+Added Pin To Net: NetName=NetAntena_AC10 Pin=U1-2
+Added Net: Name=NetAntena_AC10
+Added Pin To Net: NetName=NetAntena_AC11 Pin=U1-3
+Added Net: Name=NetAntena_AC11
+Added Member To Class: ClassName=Sheet1 Member=Component Antena Component_1

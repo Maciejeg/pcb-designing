@@ -1,0 +1,9 @@
+Comment	Description	Designator	Footprint	LibRef	Quantity
+
+""	"Capacitor"	"C1"	"RAD-0.3"	"Cap"	"1"
+"Component_1"	"Antena"	"IC?"	"Antena"	"Component_1"	"1"
+"Header 5"	"Header, 5-Pin"	"J1"	"HDR1X5"	"Header 5"	"1"
+"MHDR1X2"	"Header, 2-Pin"	"J2"	"MHDR1X2"	"MHDR1X2"	"1"
+"OPEN"	"Resistor"	"R1"	"J1-0603"	"Res3"	"1"
+""	"Resistor"	"R2"	"J1-0603"	"Res3"	"1"
+"M24LR64-RMN6/2"	"64 Kbit EEPROM"	"U1"	"SOIC127P600X175-8N"	"M24LR64-RMN6/2"	"1"
